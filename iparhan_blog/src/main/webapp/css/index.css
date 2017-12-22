@@ -1,0 +1,24 @@
+.img
+{
+  margin-top: 0px;
+  width: 50%;
+  height: 15%;
+  text-align: right;
+
+
+}
+
+body
+{
+  padding-top: 10px;
+}
+.navbar
+{
+  margin-top: 20px;
+}
+
+.title
+{
+  text-align: center;
+  font-size: 30px;
+}
